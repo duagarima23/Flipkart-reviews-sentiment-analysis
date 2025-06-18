@@ -34,4 +34,6 @@ Flipkart_Reviews_Sentiment_Analysis/
 ├── requirements.txt # Project dependencies
 ├── README.md # Project documentation
 └── resources/
-└── sample_reviews.csv # (Optional) Raw dataset
+└── flipkart_data.csv # Raw dataset
+![Screenshot 2025-06-18 172900](https://github.com/user-attachments/assets/12e9bc65-ef53-471d-b0ee-110e47211517)
+
