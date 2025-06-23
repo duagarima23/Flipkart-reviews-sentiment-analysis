@@ -25,7 +25,7 @@ This project performs sentiment analysis on Flipkart product reviews using a Mac
 ---
 
 ## 📁 Project Structure
-Flipkart_Reviews_Sentiment_Analysis/
+Flipkart_Reviews_Sentiment_Analysis/\
 │
 ├── app.py # Streamlit web application\
 ├── Flipkart_Reviews_Sentiment_Analysis_dt.ipynb # Notebook for training the model\
@@ -33,7 +33,7 @@ Flipkart_Reviews_Sentiment_Analysis/
 ├── vectorizer.pkl # Saved TF-IDF vectorizer\
 ├── requirements.txt # Project dependencies\
 ├── README.md # Project documentation\
-└── resources/
+└── resources/\
 └── flipkart_data.csv # Raw dataset
 ![Screenshot 2025-06-18 172900](https://github.com/user-attachments/assets/12e9bc65-ef53-471d-b0ee-110e47211517)
 
