@@ -26,7 +26,6 @@ This project performs sentiment analysis on Flipkart product reviews using a Mac
 
 ## 📁 Project Structure
 Flipkart_Reviews_Sentiment_Analysis/\
-│
 ├── app.py # Streamlit web application\
 ├── Flipkart_Reviews_Sentiment_Analysis_dt.ipynb # Notebook for training the model\
 ├── model.pkl # Saved trained model\
